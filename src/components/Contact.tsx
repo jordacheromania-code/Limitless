@@ -58,12 +58,12 @@ export default function Contact() {
                           <span className="text-[10px] bg-sage-500/20 text-sage-400 px-2 py-0.5 rounded-full border border-sage-500/30 group-hover:bg-sage-500 group-hover:text-white transition-all uppercase tracking-tighter">WhatsApp</span>
                         </a>
                         <a 
-                          href="https://wa.me/40721559458" 
+                          href="https://wa.me/40724000019" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-sage-100/70 hover:text-white transition-colors flex items-center gap-2 group"
                         >
-                          <span className="font-light">0721 559 458</span>
+                          <span className="font-light">0724 000 019</span>
                           <span className="text-[10px] bg-sage-500/20 text-sage-400 px-2 py-0.5 rounded-full border border-sage-500/30 group-hover:bg-sage-500 group-hover:text-white transition-all uppercase tracking-tighter">WhatsApp</span>
                         </a>
                       </div>

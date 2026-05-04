@@ -29,10 +29,10 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-bold uppercase tracking-[0.2em] text-slate-800 mb-6">Link-uri Rapide</h4>
             <ul className="space-y-4">
-              {['Home', 'Services', 'About', 'Contact'].map((item) => (
+              {['Home', 'Services', 'Pricing', 'About', 'Contact'].map((item) => (
                 <li key={item}>
                   <a href={`#${item.toLowerCase()}`} className="text-slate-500 hover:text-sage-600 transition-colors italic font-light">
-                    {item === 'Home' ? 'Acasă' : item === 'Services' ? 'Servicii' : item === 'About' ? 'Despre' : 'Contact'}
+                    {item === 'Home' ? 'Acasă' : item === 'Services' ? 'Servicii' : item === 'Pricing' ? 'Tarife' : item === 'About' ? 'Despre' : 'Contact'}
                   </a>
                 </li>
               ))}
@@ -53,7 +53,7 @@ export default function Footer() {
             <ul className="space-y-4 text-slate-500 font-light italic text-sm">
               <li>B-dul Unirii 57, bl. E4, sc. 1</li>
               <li>0744 184 423</li>
-              <li>0721 559 458</li>
+              <li>0724 000 019</li>
             </ul>
           </div>
         </div>

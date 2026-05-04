@@ -13,6 +13,7 @@ export default function Header() {
   const navLinks = [
     { name: 'Acasă', href: '#home' },
     { name: 'Servicii', href: '#services' },
+    { name: 'Tarife', href: '#pricing' },
     { name: 'Despre Noi', href: '#about' },
     { name: 'Contact', href: '#contact' },
   ];
