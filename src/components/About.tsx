@@ -58,7 +58,7 @@ export default function About() {
               Limitless-Therapy nu a apărut dintr-un plan de afaceri, ci dintr-o prietenie și o viziune comună a fondatoarelor noastre, <span className="text-sage-700 font-medium italic">Cristina Iordache</span> și <span className="text-sage-700 font-medium italic">Ramona Dumitru</span>. Ambele sunt, prin formare și dedicație, atât psihoterapeuți, cât și logopezi, oferind o perspectivă integrată asupra sănătății minții și a comunicării.
             </p>
             <p className="text-slate-600 text-lg font-light leading-relaxed mb-8 italic">
-              După ani de experiență profesională, am înțeles că echilibrul emoțional și claritatea exprimării sunt inseparabile. Cristina și Ramona și-au dorit să creeze un loc unde limitele dintre discipline dispar, oferind un parcurs terapeutic unitar, adaptat nevoilor profunde ale fiecărui pacient.
+              "După ani de experiență profesională, am înțeles că echilibrul emoțional și claritatea exprimării sunt inseparabile. Ne-am dorit să creăm un loc unde limitele dintre discipline dispar, oferind un parcurs terapeutic unitar, adaptat nevoilor profunde ale fiecărui pacient."
             </p>
             
             <div className="grid grid-cols-2 gap-8 mb-8">

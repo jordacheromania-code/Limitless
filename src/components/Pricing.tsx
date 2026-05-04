@@ -8,10 +8,9 @@ import { Tag, Clock } from 'lucide-react';
 
 const prices = [
   { service: 'Psihoterapie', duration: '50 min.', price: '300 lei' },
-  { service: 'Consiliere psihologică', duration: '50 min.', price: '250 lei' },
   { service: 'Evaluare psihologică', duration: 'per ședință', price: '400 lei' },
-  { service: 'Logopedie', duration: '45 min.', price: '180 lei' },
-  { service: 'Evaluare Logopedie', duration: '45 min.', price: '250 lei' },
+  { service: 'Logopedie', duration: '50 min.', price: '180 lei' },
+  { service: 'Evaluare Logopedie', duration: '50 min.', price: '250 lei' },
   { service: 'Dezvoltare personală', duration: '50 min.', price: '300 lei' },
   { service: 'Terapie de cuplu', duration: '90 min.', price: '400 lei' },
   { service: 'Consiliere parentală', duration: '50 min.', price: '300 lei' },
